@@ -1,2 +1,2 @@
-# 222
+some exercises in class
  
